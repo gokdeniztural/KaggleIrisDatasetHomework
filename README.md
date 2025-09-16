@@ -1,4 +1,4 @@
-# KaggleIrisDatasetHomework
+# Kaggle IrisDataset Homework
 
 Bu proje Iris veri seti kullanarak Naive Bayes algoritması, Logistic Regression ve Support Vector Classifier ile çiçek türü sınıflandırması yapmaktadır.
 
